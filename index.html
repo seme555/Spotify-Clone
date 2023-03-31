@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Spotify Clone</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="logo">
+        <img src="spotify-logo.png" alt="Logo" />
+        Spotify
+      </div>
+      <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+      </div>
+    </div>
+
+    <div class="playlist-container">
+      <h1>The Weeknd Playlist</h1>
+      <div class="song-list" id="songList">
+        <!-- Songs will be dynamically inserted by JavaScript -->
+      </div>
+    </div>
+
+    <div class="bottom-bar">
+      <img id="playPause" src="pause-icon.png" alt="Play/Pause" />
+      <input type="range" id="progress" value="0" />
+      <div id="current-song">No song playing</div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+// Commit on Fri Mar 31 10:18:24 2023: Initial commit with project setup
