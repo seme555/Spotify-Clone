@@ -125,3 +125,5 @@ audio.addEventListener("ended", () => {
 
 
 // Commit on Sun Apr 02 11:20:48 2023: Add audio player controls
+
+// Commit on Sun Apr 02 14:17:35 2023: Implement play/pause functionality
