@@ -131,3 +131,5 @@ audio.addEventListener("ended", () => {
 // Commit on Mon Apr 03 09:11:57 2023: Load songs dynamically with JavaScript
 
 // Commit on Mon Apr 03 11:48:10 2023: Attach event listeners to song items
+
+// Commit on Mon Apr 03 14:35:42 2023: Add play/pause toggle from song list
