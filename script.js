@@ -133,3 +133,5 @@ audio.addEventListener("ended", () => {
 // Commit on Mon Apr 03 11:48:10 2023: Attach event listeners to song items
 
 // Commit on Mon Apr 03 14:35:42 2023: Add play/pause toggle from song list
+
+// Commit on Mon Apr 03 17:02:28 2023: Fix bug with song switching
