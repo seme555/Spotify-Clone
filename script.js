@@ -127,3 +127,5 @@ audio.addEventListener("ended", () => {
 // Commit on Sun Apr 02 11:20:48 2023: Add audio player controls
 
 // Commit on Sun Apr 02 14:17:35 2023: Implement play/pause functionality
+
+// Commit on Mon Apr 03 09:11:57 2023: Load songs dynamically with JavaScript
