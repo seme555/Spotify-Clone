@@ -135,3 +135,5 @@ audio.addEventListener("ended", () => {
 // Commit on Mon Apr 03 14:35:42 2023: Add play/pause toggle from song list
 
 // Commit on Mon Apr 03 17:02:28 2023: Fix bug with song switching
+
+// Commit on Tue Apr 04 10:25:33 2023: Implement progress bar for current song
