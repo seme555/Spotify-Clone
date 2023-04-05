@@ -141,3 +141,5 @@ audio.addEventListener("ended", () => {
 // Commit on Tue Apr 04 12:49:09 2023: Add seek functionality to progress bar
 
 // Commit on Tue Apr 04 15:30:51 2023: Update UI when song ends
+
+// Commit on Wed Apr 05 09:59:02 2023: Play next song automatically on song end
