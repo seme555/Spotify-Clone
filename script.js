@@ -145,3 +145,5 @@ audio.addEventListener("ended", () => {
 // Commit on Wed Apr 05 09:59:02 2023: Play next song automatically on song end
 
 // Commit on Wed Apr 05 12:16:41 2023: Fix play/pause button icon sync
+
+// Commit on Wed Apr 05 16:07:18 2023: Refactor player control functions
