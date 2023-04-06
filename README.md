@@ -37,3 +37,6 @@ Check it out here: [Spotify Clone](https://spotify-clone.netlify.app/)
 ## License
 
 This project is open source and free to use.
+
+
+// Commit on Thu Apr 06 17:02:45 2023: Update README with project information
