@@ -15,7 +15,7 @@ This project was created for practice to learn front-end development, including 
 
 ## Live Demo 🚀
 
-Check it out here: [Spotify Clone](https://spotify-clone.netlify.app/)
+Check it out here: [Spotify Clone](https://spotify-cloneg.app/)
 
 ## Technologies Used
 
